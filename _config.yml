@@ -26,8 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer1        : "Instituto Superior Técnico"
-  employer2        : "Carnegie Mellon University"
+  employer1        : "IST/Lisboa & CMU"
   uri              : # URL
   email            : #"none@example.org" 
 
