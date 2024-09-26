@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Publications"
+author_profile: true
+---
+
 - Diana Vieira Fernandes, Nicolas Christin, Soummya Kar, [*Peer-to-Peer (P2P) Electricity Markets for Low Voltage Networks*](https://doi.org/10.48550/arXiv.2407.21403). To appear in *IEEE SmartGridComm'24 - 2024 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)*.
 
 - Silva, C.S.; Fernandes, D.V.; Gomes, R.; Costa, F.P.; Pinto, L.; Scuri, S.; Brito, A.; Nunes, B.; Silva, S.P. CLIMAEXTREMO: A New Risk Indicator for the Health Risk to Building Occupants during Extreme Weather Events in Portugal. Sustainability 2024, 16, 5171. https://doi.org/10.3390/su16125171
