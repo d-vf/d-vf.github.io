@@ -8,5 +8,11 @@ date: 2022-01-01
 location: "Lisboa, Portugal "
 ---
 
-Teaching Assistant for “Energy Services” (MEGE, MEFT21)(https://fenix.tecnico.ulisboa.pt/disciplinas/SEne/2021-2022/2-semestre)
+Teaching Assistant for [“Energy Services” (MEGE, MEFT21)](https://fenix.tecnico.ulisboa.pt/disciplinas/SEne/2021-2022/2-semestre).
+
+
+
+
+
+
 
