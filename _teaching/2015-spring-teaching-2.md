@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant for “Energy Services"
+title: "Energy Services"
 collection: teaching
-type: "graduate"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Instituto Superior Técnico, Universidade de Lisboa"
 date: 2022-01-01
