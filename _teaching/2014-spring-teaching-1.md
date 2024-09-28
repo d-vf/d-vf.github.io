@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "19603 - Data Science for Technology, Innovation and Policy"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Carnegie Mellow University"
+date: 2024-01-01
+location: "Pittsburgh, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant for 19603 - Data Science for Technology, Innovation and Policy Spring 2024
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
