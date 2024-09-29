@@ -1,6 +1,6 @@
 ---
 title: "Reliable - CLIMAEXTREMO"
-excerpt: "climaextremo<br/><img src='/images/climaextremo.png'>"
+excerpt: "<img src='/images/climaextremo.png'>"
 collection: portfolio
 ---
 
