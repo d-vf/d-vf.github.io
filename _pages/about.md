@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am xpto....
+I am a PhD Student in Engineering and Public Policy at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) and [Carnegie Mellow University](https://www.cmu.edu/epp/index.html) under the [CMU Portugal Program]([https://cmuportugal.org/). I am also a jurist with a Master in Law and management (Universidade Nova de Lisboa) and a Law Degree ("Licenciatura"). 
 
-title1
-======
-this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
