@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Fernandes, D. V. “Peer-to-Peer (P2P) Electricity Markets for Low Voltage Networks” Presentation at Carnegie Mellon Electricity Industry Center (CEIC) Advisory Committee Meeting (October 16, 2024)
+
+- IST PhD Open Days (4-5 November, Lisbon), Poster [“Peer-to-Peer (P2P) Electricity Markets for Low Voltage Networks”](https://phdopendays.tecnico.ulisboa.pt/files/sites/168/dvf_epp_ist_phd_open_days_281024.pdf)
+
 - Diana Vieira Fernandes, "Peer-to-Peer (P2P) Electricity Markets for Low Voltage Networks." IEEE SmartGridComm 2024 - 2024 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (September 2024, Oslo, Norway).
 
 - Fernandes, D. V. (2023, December). "Enabling a Secure Peer-to-Peer (P2P) Electricity Market in Low Voltage Networks." Presentation at the CMU Portugal Doctoral Symposium 2023, Pittsburgh, USA.
