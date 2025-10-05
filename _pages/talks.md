@@ -7,6 +7,8 @@ author_profile: true
 
 - Diana Vieira Fernandes, "Decentralized Local Voltage Control for Active Distribution Networks" IEEE SmartGridComm 2025 - 2025 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (October 1, 2025, Toronto, Canada).
 
+- Diana Vieira Fernandes, “Peer-to-Peer (P2P) Electricity Markets for Low Voltage Networks” Presentation at  [Technology, Management, and Policy Graduate Consortium](https://tmpconsortium.org/) 2025, Porto, Portugal (June 16, 2025)
+  
 - Fernandes, D. V. “Peer-to-Peer (P2P) Electricity Markets for Low Voltage Networks” Presentation at Carnegie Mellon Electricity Industry Center (CEIC) Advisory Committee Meeting (October 16, 2024)
 
 - IST PhD Open Days (4-5 November, Lisbon), Poster [“Peer-to-Peer (P2P) Electricity Markets for Low Voltage Networks”](https://phdopendays.tecnico.ulisboa.pt/files/sites/168/dvf_epp_ist_phd_open_days_281024.pdf)
